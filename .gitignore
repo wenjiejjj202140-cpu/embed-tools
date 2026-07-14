@@ -3,6 +3,7 @@
 *.out
 gpio-blink/gpio-blink
 bitmanip/bitmanip
+W2_struct-mem/struct_intro
 
 # 编辑器临时文件
 *.swp
