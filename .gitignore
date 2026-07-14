@@ -5,6 +5,9 @@ gpio-blink/gpio-blink
 bitmanip/bitmanip
 W2_struct-mem/struct_intro
 
+# 学习计划（包含个人背景信息，不提交）
+LEARNING_PLAN.md
+
 # 编辑器临时文件
 *.swp
 *.swo
