@@ -1,9 +1,9 @@
 # 编译产物
 *.o
 *.out
-gpio-blink/gpio-blink
-bitmanip/bitmanip
-W2_struct-mem/struct_intro
+W1_c-deep/gpio-blink/gpio-blink
+W1_c-deep/bitmanip/bitmanip
+W1_c-deep/struct_intro
 
 # 学习计划（包含个人背景信息，不提交）
 LEARNING_PLAN.md
