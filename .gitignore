@@ -4,9 +4,19 @@
 W1_c-deep/gpio-blink/gpio-blink
 W1_c-deep/bitmanip/bitmanip
 W1_c-deep/struct_intro
+W1_c-deep/dynamic_mem
+W1_c-deep/score_manager
+W1_c-deep/struct_align
 
 # 学习计划（包含个人背景信息，不提交）
 LEARNING_PLAN.md
+
+# 尚硅谷版权资料
+入学指南.pdf
+
+# 编译产物（通用规则）
+*.exe
+!*.c
 
 # 编辑器临时文件
 *.swp
