@@ -40,7 +40,7 @@ git push
 | `W1_c-deep/*.c` — 自己写的代码 | 编译产物 `*.o` / 二进制文件 |
 | `.github/` — 工作流配置（后期） | `入学指南.pdf` — 版权资料 |
 | `GITHUB_WORKFLOW.md` — 本文件 | `.knowledge/` — 导师知识库 |
-| `README.md`（面试前更新） | `notes/` — 个人笔记 |
+| `README.md`（面试前更新） | `notes/W1_c-deep/` — 每日学习笔记 ✅ |
 | `LEARNING_PLAN.md`（⚠️含个人信息，暂不提交） | |
 
 ---
