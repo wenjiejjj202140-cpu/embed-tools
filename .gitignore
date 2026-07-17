@@ -1,12 +1,11 @@
 # 编译产物
 *.o
 *.out
-W1_c-deep/gpio-blink/gpio-blink
-W1_c-deep/bitmanip/bitmanip
-W1_c-deep/struct_intro
-W1_c-deep/dynamic_mem
-W1_c-deep/score_manager
-W1_c-deep/struct_align
+# W1_c-deep 各目录编译产物（按天分组）
+W1_c-deep/*/my_string
+W1_c-deep/D6_dynamic-mem/dynamic_mem
+W1_c-deep/D6_dynamic-mem/score_manager
+W1_c-deep/D5_struct-align/struct_align
 
 # 学习计划（包含个人背景信息，不提交）
 LEARNING_PLAN.md
