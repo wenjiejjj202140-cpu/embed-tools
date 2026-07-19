@@ -1,0 +1,15 @@
+# 每日教学状态追踪
+# 跨渠道共享：QQ/WebChat 都读这个文件
+# 更新者：我（自动更新）
+
+[2026-07-18]
+teaching_done = false      # 今天是否已完成教学流程
+last_topic = ""            # 最后一次聊的内容（用于续接）
+last_channel = ""          # 最后是从哪个渠道聊的
+notes = "QQ Bot 配置日，未上课"
+
+[2026-07-19]
+teaching_done = true
+last_topic = "综合项目1：学生成绩管理系统"
+last_channel = "webchat"
+notes = "完成了综合项目1（添加/显示/查找/修改/删除/排序/退出），跳过文件IO。"

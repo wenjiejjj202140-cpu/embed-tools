@@ -30,6 +30,7 @@ Thumbs.db
 
 # 本地知识库（不提交，仅导师使用）
 .knowledge/
+knowledge.toml
 
 # 笔记文件夹（W1_c-deep/ 以下已提交，后续新目录按需放开）
 notes/*
