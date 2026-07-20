@@ -135,14 +135,15 @@
 ```
 ## 🏠 课后流程
 
-> 来源：MEMORY.md → 下课收尾（强制四步）
+> 来源：MASTER.md §4.2 → 课后更新（不可跳过）
 
 - [ ] ① 更新 knowledge.toml
   - 新增：（按当天新增知识点列出）
   - 更新：（按当天更新的知识点列出）
-- [ ] ② 标记 daily_state.toml → teaching_done = true
-- [ ] ③ 写教学反思到 MEMORY.md
-- [ ] ④ git add -A && git commit && git push
+- [ ] ② 生成当天笔记到 notes/{周目录}/D{序号}_{主题}.md
+- [ ] ③ 标记 daily_state.toml → teaching_done = true
+- [ ] ④ 写教学反思到 MEMORY.md
+- [ ] ⑤ git add -A && git commit && git push
 ```
 
 ---
@@ -183,4 +184,4 @@
 - [ ] 题目按支架层级递进（填空→自写→从零写）
 - [ ] 英语科普有词根拆解
 - [ ] 安全彩蛋在合适知识点插入
-- [ ] 课后流程清单完整（4步）
+- [ ] 课后流程清单完整（5步：含生成笔记）
