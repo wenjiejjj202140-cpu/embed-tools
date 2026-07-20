@@ -42,3 +42,4 @@ knowledge.toml
 # 笔记文件夹（W1_c-deep/ 以下已提交，后续新目录按需放开）
 notes/*
 !notes/W1_c-deep/
+!notes/W2_c-advanced/
