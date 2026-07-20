@@ -1,6 +1,13 @@
 # 编译产物
 *.o
 *.out
+W2_c-advanced/*
+!W2_c-advanced/*.c
+!W2_c-advanced/*.h
+!W2_c-advanced/*.md
+!W2_c-advanced/*.txt
+!W2_c-advanced/*.py
+!W2_c-advanced/*.json
 # W1_c-deep 各目录编译产物（按天分组）
 W1_c-deep/*/my_string
 W1_c-deep/D6_dynamic-mem/dynamic_mem

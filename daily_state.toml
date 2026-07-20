@@ -13,3 +13,10 @@ teaching_done = true
 last_topic = "综合项目1：学生成绩管理系统"
 last_channel = "webchat"
 notes = "完成了综合项目1（添加/显示/查找/修改/删除/排序/退出），跳过文件IO。"
+
+[2026-07-20]
+teaching_done = true
+last_topic = "D8：指针进阶与内存模型 + 递归"
+last_channel = "webchat"
+notes = 
+
