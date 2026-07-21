@@ -20,3 +20,11 @@ last_topic = "D8：指针进阶与内存模型 + 递归"
 last_channel = "webchat"
 notes = 
 
+[2026-07-21]
+teaching_done = true
+last_topic = "D9：函数指针 + 二分查找"
+last_channel = "webchat"
+notes = "函数指针声明语法/typedef/回调实战/qsort/二分查找完成✅ va_list未学，移至D10"
+> 未学知识点：va_list（第6步）
+> 学生状态：7h+学习后疲劳，主动提出终止，尊重节奏☑️
+
