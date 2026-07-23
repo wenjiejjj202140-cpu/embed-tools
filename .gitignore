@@ -18,6 +18,22 @@ W2_c-advanced/D9_func-ptr/*
 !W2_c-advanced/D9_func-ptr/*.c
 !W2_c-advanced/D9_func-ptr/*.h
 !W2_c-advanced/D9_func-ptr/*.md
+
+# D10 va_list+union+enum+bitfield
+!W2_c-advanced/D10_va_list_union_enum_bitfield/
+W2_c-advanced/D10_va_list_union_enum_bitfield/*
+!W2_c-advanced/D10_va_list_union_enum_bitfield/*.c
+!W2_c-advanced/D10_va_list_union_enum_bitfield/*.h
+!W2_c-advanced/D10_va_list_union_enum_bitfield/*.md
+!W2_c-advanced/D10_va_list_union_enum_bitfield/*.md
+
+# D11 linked list
+!W2_c-advanced/D11_linked_list/
+W2_c-advanced/D11_linked_list/*
+!W2_c-advanced/D11_linked_list/*.c
+!W2_c-advanced/D11_linked_list/*.h
+!W2_c-advanced/D11_linked_list/*.md
+
 # W1_c-deep 各目录编译产物（按天分组）
 W1_c-deep/*/my_string
 W1_c-deep/D6_dynamic-mem/dynamic_mem
@@ -44,6 +60,9 @@ LEARNING_PLAN.md
 # 系统文件
 .DS_Store
 Thumbs.db
+
+# 教案（导师内部使用，不提交）
+plans/
 
 # 本地知识库（不提交，仅导师使用）
 .knowledge/
