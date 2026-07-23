@@ -149,7 +149,7 @@
 - [ ] ② 生成当天笔记到 notes/{周目录}/D{序号}_{主题}.md
 - [ ] ③ 标记 daily_state.toml → teaching_done = true
 - [ ] ④ 写教学反思到 MEMORY.md
-- [ ] ⑤ git add -A && git commit && git push
+- [ ] ⑤ 按 MASTER.md §3.3（Git 操作红线）执行 add/commit/push
 ```
 
 ---
